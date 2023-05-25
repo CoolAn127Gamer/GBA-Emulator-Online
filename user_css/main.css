@@ -4,7 +4,7 @@ html, body {
     width: 100%;
     height: 100%;
     cursor: none;
-    background:rgb(248, 237, 212);
+    background:rgb(100, 41, 155);
 }
 body {
   background-image: url("https://raw.githubusercontent.com/CoolAn127Gamer/GBA-Emulator-Online/gh-pages/Binaries/gba_bg.jpg");
@@ -30,7 +30,7 @@ canvas {
     height: 100%;
 }
 span {
-    color: blue;
+    color: yellow;
     bottom: 0px;
     position: absolute;
     right: 0px;
