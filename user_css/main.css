@@ -6,6 +6,22 @@ html, body {
     cursor: none;
     background:rgb(248, 237, 212);
 }
+body {
+  background-image: url("https://raw.githubusercontent.com/CoolAn127Gamer/GBA-Emulator-Online/gh-pages/Binaries/gba_bg.jpg");
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+div {
+  align-items: center;
+  text-align: center;
+  border-radius: 25px;
+  height: 300px;
+  width: 1000px;
+  background: linear-gradient(to bottom, #000000 0%, #020094 100%);
+}
 canvas {
     position: absolute;
     top: 0;
